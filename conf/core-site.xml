@@ -18,7 +18,7 @@
 
 <configuration>
 	<property>
-		<key>fs.defaultFS</key>
-		<value>hdfs://hdnn:9000/</value>
+		<name>fs.defaultFS</name>
+		<value>hdfs://hdnn:9000</value>
 	</property>
 </configuration>

@@ -24,6 +24,9 @@
 # The java implementation to use.
 export JAVA_HOME=/opt/jdk
 
+export HADOOP_PREFIX=/opt/hadoop
+export HADOOP_CONF_DIR=/root/clucfg/conf
+
 # The jsvc implementation to use. Jsvc is required to run secure datanodes.
 #export JSVC_HOME=${JSVC_HOME}
 
