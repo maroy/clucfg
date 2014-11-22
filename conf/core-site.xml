@@ -17,4 +17,8 @@
 <!-- Put site-specific property overrides in this file. -->
 
 <configuration>
+	<property>
+		<key>fs.defaultFS</key>
+		<value>hdfs://hdnn:9000/</value>
+	</property>
 </configuration>
