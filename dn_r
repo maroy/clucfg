@@ -1,0 +1,5 @@
+git pull
+source commands/nm_s
+source commands/dn_s
+source commands/dn
+source commands/nm
