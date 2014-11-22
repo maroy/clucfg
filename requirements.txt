@@ -1,11 +1,2 @@
 PyYAML==3.11
-argparse==1.2.1
-bzr-etckeeper==0.0.0
-pycrypto==2.6
-pycurl==7.19.0
-pycurl-wrapper==1.2
 pystache==0.5.4
-pythondialog==2.7
-simplejson==2.5.2
-turnkey-pylib==0.5-2-gfde3f2b
-wsgiref==0.1.2

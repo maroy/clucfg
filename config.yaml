@@ -1,0 +1,22 @@
+hostname: ????
+ip: 10.0.0.??
+
+hosts:
+    -
+        hostname: hdnn
+        ip: 10.0.0.20
+    -
+        hostname: hdrm
+        ip: 10.0.0.21
+    -
+        hostname: hdd1
+        ip: 10.0.0.22
+    -
+        hostname: hdd2
+        ip: 10.0.0.23
+    -
+        hostname: hdd3
+        ip: 10.0.0.24
+    -
+        hostname: hdd4
+        ip: 10.0.0.25
