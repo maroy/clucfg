@@ -1,0 +1,1 @@
+/opt/hadoop/sbin/mr-jobhistory-daemon.sh --config /root/clucfg/conf/ stop historyserver

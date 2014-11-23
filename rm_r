@@ -1,3 +1,7 @@
 git pull
+source commands/hs_s
+source commands/ps_s
 source commands/rm_s
 source commands/rm
+source commands/ps
+source commands/hs
